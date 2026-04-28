@@ -44,13 +44,13 @@ Purpose: What the program is about
 
 | Criteria | Chapter | Adequate (0-3 pts) | Good (4-7 pts) | Excellent (8-10 pts) |
 |:---------|:-------:|:-------------------|:---------------|:---------------------|
-| **List Creation & Manipulation** | 5 | Creates a list but does little with it | Creates and modifies lists (add/remove/access) | Creates lists, modifies them, and uses list operations meaningfully (slicing, sorting, etc.) |
+| **List Creation & Manipulation** | 5 | Creates a list but does little with it | Creates and modifies lists (add/remove/access) | Creates lists, modifies them, and uses list operations meaningfully |
 | **Dictionary Usage** | 5 | Creates a dictionary with minimal use | Creates dictionaries and accesses values by key | Creates dictionaries, modifies them, and iterates through key-value pairs effectively |
-| **Iterating Collections** | 5 | Attempts to loop through a collection | Successfully iterates through lists/dictionaries | Uses loops creatively to transform or analyze collection data |
+| **Iterating Collections (Lists/Dictionaries)** | 5 | Attempts to loop through a collection | Successfully iterates through lists/dictionaries | Uses loops creatively to transform or analyze collection data |
 | **Function Definition** | 6 | Defines 1-2 functions | Defines 3-5 functions with parameters | Defines **6+ functions** with well-chosen parameters and meaningful return values |
 | **Function Return Values** | 6 | Functions print but don't return | Functions return values but may be inconsistent | Functions return values that are used effectively throughout the program |
 | **Function Design** | 6 | Functions are long/multi-purpose | Functions have single, clear purposes | Functions are modular, reusable, and well-named with clear responsibilities |
-| **Class Definition** | 10 | Creates 1 class with `__init__` | Creates 1 class with `__init__` and multiple methods | Creates **2+ classes** (demonstrating relationships like composition or inheritance) |
+| **Class Definition** | 10 | Creates 1 class with `__init__` | Creates 1 class with `__init__` and multiple methods | Creates **2+ classes** (demonstrating relationships like composition) |
 | **Object Instantiation** | 10 | Creates 1 object | Creates multiple objects from 1 class | Creates objects from **multiple classes** and uses them together |
 | **Encapsulation** | 10 | Attributes are accessible directly | Uses methods to modify/access attributes | Methods properly manage object state; good use of getters/setters or properties |
 | **Runs Without Errors** | Functionality | Program runs but requires fixes | Program runs with minor errors | Program runs with zero errors |
